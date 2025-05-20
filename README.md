@@ -67,11 +67,8 @@ All visuals are stored in the `/charts` directory.
  - report.pdf # Final report summarizing findings
  - README.md # Project documentation
  - layoffs_forecast.ipynb # Core notebook with analysis and modeling
+ - Tech Layoffs 2022-2025.pbix #Interactive Dashboard with forecast analysis and global map
 
 ## Contact
-
-**Author:** Wesley Hilton  
-**LinkedIn:** ## Contact
-
 **Author:** Wesley Hilton  
 **LinkedIn:**  https://www.linkedin.com/in/wesleyhilton/ 
